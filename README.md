@@ -1,10 +1,10 @@
 # EGR 598 Thesis
 
 Member of Cooperative Robotic Systems (CRS) Lab 
-School of Computing and Augmented Intelligence 
-Ira A. Fulton Schools of Engineering 
-Arizona State University
-_Supervised_ by Dr. Yu Zhang
+<br /> School of Computing and Augmented Intelligence 
+<br /> Ira A. Fulton Schools of Engineering 
+<br /> Arizona State University
+<br /> _Supervised_ by Dr. Yu Zhang
 
 
 ## Summary:
