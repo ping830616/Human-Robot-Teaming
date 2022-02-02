@@ -1,4 +1,4 @@
-# EGR 598 Thesis
+# Research Volunteer Experience
 
 Member of Cooperative Robotic Systems (CRS) Lab 
 <br /> School of Computing and Augmented Intelligence 
